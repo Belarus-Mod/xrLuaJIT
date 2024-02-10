@@ -1,5 +1,4 @@
-===============================================================================
-LuaJIT -- a Just-In-Time Compiler for Lua. http://luajit.org/
+# LuaJIT - Just-In-Time Compiler for Lua. [Homepage](https://luajit.org)
 
 Copyright (C) 2005-2017 Mike Pall. All rights reserved.
 
@@ -19,12 +18,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+THE SOFTWARE. [MIT license](http://www.opensource.org/licenses/mit-license.php)
 
-[ MIT license: http://www.opensource.org/licenses/mit-license.php ]
-
-===============================================================================
-[ LuaJIT includes code from Lua 5.1/5.2, which has this license statement: ]
+# LuaJIT includes code from Lua 5.1/5.2, which has this license statement
 
 Copyright (C) 1994-2012 Lua.org, PUC-Rio.
 
@@ -46,11 +42,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-===============================================================================
-[ LuaJIT includes code from dlmalloc, which has this license statement: ]
+# LuaJIT includes code from dlmalloc, which has this license statement:
 
 This is a version (aka dlmalloc) of malloc/free/realloc written by
-Doug Lea and released to the public domain, as explained at
-http://creativecommons.org/licenses/publicdomain
-
-===============================================================================
+Doug Lea and released to the public domain, as explained at [link](http://creativecommons.org/licenses/publicdomain)
